@@ -859,7 +859,7 @@ hr.separator {
 }
 
 #headerwrap {
-    background:url(../images/lk234.jpg) no-repeat;
+    background:url(/assect/image/banner.png) no-repeat;
 	background-color:#e33333!important;
 	background-attachment:scroll;
 	position:relative;
